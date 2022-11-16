@@ -4,10 +4,10 @@
 ## How to get it?
 
 ```sh
-pip install pandas
+pip install compcate
 ```
 
-## Examples of How to Calculate Co-Mention-Based Similarity and Categorise Firms
+## Examples of how to calculate co-mention-based similarity and categorise firms
 
 ```sh
 
